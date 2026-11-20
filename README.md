@@ -1,5 +1,9 @@
 # Aspia для macOS — Console и Launcher
 
+**[⬇ Скачать Aspia Console 2.7.0 (.dmg)](../../releases/latest/download/aspia-console-2.7.0-x86_64.dmg)** · **[⬇ Скачать Aspia Launcher (.zip)](../../releases/latest/download/Aspia-Launcher.zip)**
+
+[Все файлы последнего релиза](../../releases/latest)
+
 Набор для подключения к удалённым компьютерам через Aspia с использованием адресных книг старого формата `.aab`.
 
 - **Aspia Console 2.7.0** — открывает адресные книги `.aab` и позволяет запускать подключения.
